@@ -30,3 +30,6 @@ The extension uses the following permissions:
 - `Scripting` – to inject the cleaning script into the page.
 
 > These permissions are justified because the extension only modifies the course tabl
+---
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
