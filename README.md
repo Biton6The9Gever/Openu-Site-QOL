@@ -27,6 +27,6 @@
 The extension uses the following permissions:
 
 - `activeTab` – to access and modify the currently active page when the extension runs.
-- Scripting – to inject the cleaning script into the page.
+- `Scripting` – to inject the cleaning script into the page.
 
 > These permissions are justified because the extension only modifies the course tabl
