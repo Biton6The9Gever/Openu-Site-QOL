@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Filter Courses",
   "version": "1.0",
-  "description": "Remove unwanted courses from the course list.",
+  "description": "Remove unwanted courses from the course list. Biton6The9Gever",
   "permissions": ["activeTab", "scripting"],
   "content_scripts": [
     {
