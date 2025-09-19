@@ -35,14 +35,5 @@ The extension will automatically clean the table — no extra steps required.
 **After**
 ![After](https://github.com/user-attachments/assets/2a241dad-a25f-4bc4-9495-61a5239beeb4)
 ---
-## Permissions
-
-The extension uses the following permissions:
-
-- `activeTab` – to access and modify the currently active page when the extension runs.
-- `Scripting` – to inject the cleaning script into the page.
-
-> These permissions are justified because the extension only modifies the course table content on the Open University site.
----
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
