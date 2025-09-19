@@ -16,15 +16,15 @@
 
 ## Installation (Developer Mode)
 
-1. Clone or download this repository.
-2. Open Chrome and go to `chrome://extensions/`.
-3. Enable **Developer mode** (top right).
-4. Click **Load unpacked** and select the extension folder.
-5. Open the Open University course table page and the extension will clean the table automatically.
+1. Clone or download this repository [here](https://github.com/Biton6The9Gever/Openu-Site-QOL/releases/tag/QOL).
+3. Open Chrome and go to `chrome://extensions/`.
+4. Enable **Developer mode** (top right).
+5. Click **Load unpacked** and select the extension folder.
+6. Open the Open University course table page and the extension will clean the table automatically.
 
 ---
 ## Usage
-Once installed, simply open the Open University course table page.  
+Once installed, simply open the Open University course table page. 
 The extension will automatically clean the table — no extra steps required.
 ---
 ### Live Example
