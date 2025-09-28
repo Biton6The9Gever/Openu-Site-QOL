@@ -5,7 +5,8 @@ const rows = document.querySelectorAll("table.content_tbl tbody tr");
 const blockedStatuses = [
   "מבוטל",    // Cancelled
   "הוחלף",    // Replaced
-  "נדחה"      // Postponed / Rejected
+  "נדחה",     // Postponed / Rejected
+  "הרשמה מחדש" // Retake
 ];
 
 // Go through each row
